@@ -1,4 +1,4 @@
-# Ejercicios Power Shell sobre estructuras repetitivas
+# Ejercicios Python sobre estructuras repetitivas
 
 ## Ejercicio 1
 Escribir un programa que pida al usuario una palabra y la muestre por pantalla 10 veces.
